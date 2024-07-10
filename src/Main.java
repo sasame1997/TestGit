@@ -3,5 +3,6 @@ public class Main {
 
         System.out.println("Modificare 2");
         System.out.println("Ammend");
+        System.out.println("Commit 8");
     }
 }
